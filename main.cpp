@@ -15,7 +15,6 @@ void setup() {
  lcd.clrScr();
  lcd.update();
  delay(3000);
-
 }
 
 void loop() {
